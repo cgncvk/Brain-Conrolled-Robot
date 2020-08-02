@@ -1,0 +1,12 @@
+C:\Users\Kelsey\Desktop\C#.Net\EEG3\ThinkGearNET\ThinkGearNET\bin\x86\Debug\thinkgear.dll
+C:\Users\Kelsey\Desktop\C#.Net\EEG3\ThinkGearNET\ThinkGearNET\bin\x86\Debug\ThinkGearNET.dll
+C:\Users\Kelsey\Desktop\C#.Net\EEG3\ThinkGearNET\ThinkGearNET\bin\x86\Debug\ThinkGearNET.pdb
+C:\Users\Kelsey\Desktop\C#.Net\EEG3\ThinkGearNET\ThinkGearNET\obj\x86\Debug\ThinkGearNET.dll
+C:\Users\Kelsey\Desktop\C#.Net\EEG3\ThinkGearNET\ThinkGearNET\obj\x86\Debug\ThinkGearNET.pdb
+C:\Users\fragg3r\Desktop\MindwaveReaderOne-1\ThinkGearNET\ThinkGearNET\bin\x86\Debug\thinkgear.dll
+C:\Users\fragg3r\Desktop\MindwaveReaderOne-1\ThinkGearNET\ThinkGearNET\bin\x86\Debug\ThinkGearNET.dll
+C:\Users\fragg3r\Desktop\MindwaveReaderOne-1\ThinkGearNET\ThinkGearNET\bin\x86\Debug\ThinkGearNET.pdb
+C:\Users\fragg3r\Desktop\MindwaveReaderOne-1\ThinkGearNET\ThinkGearNET\obj\x86\Debug\ThinkGearNET.csprojAssemblyReference.cache
+C:\Users\fragg3r\Desktop\MindwaveReaderOne-1\ThinkGearNET\ThinkGearNET\obj\x86\Debug\ThinkGearNET.csproj.CoreCompileInputs.cache
+C:\Users\fragg3r\Desktop\MindwaveReaderOne-1\ThinkGearNET\ThinkGearNET\obj\x86\Debug\ThinkGearNET.dll
+C:\Users\fragg3r\Desktop\MindwaveReaderOne-1\ThinkGearNET\ThinkGearNET\obj\x86\Debug\ThinkGearNET.pdb

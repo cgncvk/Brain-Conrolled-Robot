@@ -1,0 +1,17 @@
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-19\ThinkGearNET\ThinkGearNET\bin\x86\Release\thinkgear.dll
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-19\ThinkGearNET\ThinkGearNET\bin\x86\Release\ThinkGearNET.dll
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-19\ThinkGearNET\ThinkGearNET\bin\x86\Release\ThinkGearNET.pdb
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-19\ThinkGearNET\ThinkGearNET\obj\x86\Release\ThinkGearNET.dll
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-19\ThinkGearNET\ThinkGearNET\obj\x86\Release\ThinkGearNET.pdb
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-19\ThinkGearNET\ThinkGearNET\obj\x86\Release\ThinkGearNET.csprojResolveAssemblyReference.cache
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-20\ThinkGearNET\ThinkGearNET\bin\x86\Release\thinkgear.dll
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-20\ThinkGearNET\ThinkGearNET\bin\x86\Release\ThinkGearNET.dll
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-20\ThinkGearNET\ThinkGearNET\bin\x86\Release\ThinkGearNET.pdb
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-20\ThinkGearNET\ThinkGearNET\obj\x86\Release\ThinkGearNET.csprojResolveAssemblyReference.cache
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-20\ThinkGearNET\ThinkGearNET\obj\x86\Release\ThinkGearNET.dll
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-20\ThinkGearNET\ThinkGearNET\obj\x86\Release\ThinkGearNET.pdb
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-21\ThinkGearNET\ThinkGearNET\bin\x86\Release\thinkgear.dll
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-21\ThinkGearNET\ThinkGearNET\bin\x86\Release\ThinkGearNET.dll
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-21\ThinkGearNET\ThinkGearNET\bin\x86\Release\ThinkGearNET.pdb
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-21\ThinkGearNET\ThinkGearNET\obj\x86\Release\ThinkGearNET.dll
+C:\Users\Kelsey\Desktop\C#.Net\0-Thinkgear-Final\ThinkgearNet-1-Sec-21\ThinkGearNET\ThinkGearNET\obj\x86\Release\ThinkGearNET.pdb

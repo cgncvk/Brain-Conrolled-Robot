@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ARDUINOROBOTKONTROL
+</name>
+</assembly>
+<members>
+<member name="P:ARDUINO_ROBOT_KONTROL.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ARDUINO_ROBOT_KONTROL.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ARDUINO_ROBOT_KONTROL.My.Resources.Resources._11816871_1649289651952521_6621756771745635016_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ARDUINO_ROBOT_KONTROL.My.Resources.Resources.logodenemeson">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ARDUINO_ROBOT_KONTROL.My.Resources.Resources.okalt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ARDUINO_ROBOT_KONTROL.My.Resources.Resources.oksag">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ARDUINO_ROBOT_KONTROL.My.Resources.Resources.oksol">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ARDUINO_ROBOT_KONTROL.My.Resources.Resources.okust">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ARDUINO_ROBOT_KONTROL.My.Resources.Resources.Stop_sign">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ARDUINO_ROBOT_KONTROL.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
